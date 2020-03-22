@@ -1,0 +1,18 @@
+class_name1:
+  var_name1:
+    - type1
+    - value1
+  var_name2:
+    - type1
+    - value1
+
+class_name2:
+  var_name1:
+    - type1
+    - value1
+  var_name2:
+    - type1
+    - value1
+
+
+
